@@ -3,3 +3,5 @@
 * **Name:** Mike Dormany
 * **Occupation:** Senior Code Monkey
 * **Hometown:** Portland, OR (I ```put``` birds on things)
+* **Favorite Color:** Green
+* **Favorite Movie:** The Goonies
