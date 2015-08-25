@@ -5,3 +5,4 @@
 - **Hometown:** San Francisco, California, USA
 - **Favorite Color:** Purple
 - **Favorite Movie:** Back to the Future
+- **Favorite Vacation Spot:** Portland, Maine
