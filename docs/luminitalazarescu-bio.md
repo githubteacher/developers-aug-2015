@@ -2,5 +2,5 @@
 
 - **Name:** Luminita Lazarescu
 - **Occupation**: QA Engineer
-- **Hometown**: Bucharest
+- **Hometown**: Bucharest, Romania
 - **Favourite color**: red
