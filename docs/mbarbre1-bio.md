@@ -1,6 +1,6 @@
 # BIO
 
-- Mike B.
-- Java Developer
-- Fort Collins, Colorado
-- Buccaneer Red
+**Name:** Mike B.
+**Occupation:** Java Developer
+**Hometown:** Fort Collins, Colorado
+**Favorite Color:** Buccaneer Red
