@@ -2,5 +2,5 @@
 
 - Mike B.
 - Java Developer
-- Fort Collins
+- Fort Collins, Colorado
 - Buccaneer Red
