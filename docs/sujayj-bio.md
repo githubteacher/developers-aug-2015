@@ -3,3 +3,5 @@
 - Name
 - Occupation
 - Hometowm
+- Favorite color
+- favorite movie
