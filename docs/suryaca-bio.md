@@ -2,4 +2,5 @@
 
 - **Name:**Surya C. Akasam
 - **Occupation:**Founder & CEO
-- **Hometown:**Bhimavaram
+- **Hometown:**Bhimavaram, India
+- **Fav movie:** Rudraveena
